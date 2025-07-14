@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/aboutus.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+At **NeatStack**, we believe that building great software begins with a passion for the craft — grounded in clean design, thoughtful architecture, and a deep respect for business value.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+We partner with **Tech-enabled businesses** to deliver expert-led training and full-stack consulting that help teams grow their capabilities, improve quality, and innovate with purpose.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+We see high-quality software not just as an ideal, but as a smart economic choice — reducing rework, increasing adaptability, and enabling faster, more confident delivery. Whether guiding Agile transformations, coaching product managers, or enabling teams to harness the power of Generative AI, we align technology with outcomes that matter.
 
+Driven by engineering excellence and business impact, NeatStack is your trusted partner in building modern, maintainable, and meaningful software solutions.
