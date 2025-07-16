@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "/affiliates-jekyll-neatstack"
 permalink: "/:title/"
 logo: 'assets/images/Neat Stack Logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/neatstack favicon.ico'
 author: NeatStack Consulting Pte. Ltd.
 paginate: 30
 disqus: 'demowebsite'
