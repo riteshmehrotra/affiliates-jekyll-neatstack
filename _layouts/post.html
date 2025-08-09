@@ -16,7 +16,7 @@ post_class: post-template
         
 		<div class="col-sm-8">
             <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			{% if page.image %}<img class="featured-image img-fluid rounded" style="max-width: 300px; max-height: 250px;" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 			<div class="mainheading">             
                 
@@ -47,7 +47,7 @@ post_class: post-template
 			</div>
 
             <!-- Post Date -->
-            <p>
+            <!-- <p>
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                 {% if page.last_modified_at %}
@@ -55,7 +55,7 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
-            
+             -->
 			
             
             <!-- Prev/Next -->
@@ -102,17 +102,9 @@ post_class: post-template
 
 		</div>
 		<!-- End Post -->
-
-
-        
-
 		<!-- Sidebar -->
-        <div class="col-sm-4">
-            {% include sidebar.html %}
-            </div>
         
         
-
 	</div>
 
 <!-- End Article

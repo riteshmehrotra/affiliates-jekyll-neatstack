@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agentic AI applicaitons"
+title:  "Agentic AI applications"
 categories: [ training ]
 image: assets/images/agenticai.png
 order: 1
