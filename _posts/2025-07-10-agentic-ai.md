@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Building Autonomous AI Agents"
-categories: [ GenerativeAI, Software Development ]
+title:  "Agentic AI applicaitons"
+categories: [ training ]
 image: assets/images/agenticai.png
 order: 1
 ---

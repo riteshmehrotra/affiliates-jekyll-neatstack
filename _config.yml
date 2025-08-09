@@ -1,5 +1,5 @@
 title: "NeatStack"
-email: wowthemesnet@gmail.com
+email: contact@neatstack.tech
 timezone: UTC
 baseurl: "/affiliates-jekyll-neatstack"
 permalink: "/:title/"
@@ -21,6 +21,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: UA-113961478-1
+collections:
+  trainings:
+    output: true
+    permalink: /:collection/:name/
 
 # Authors
 authors:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Secure Coding Practices"
-categories: [ CyberSecurity, Software Development ]
+categories: [ training ]
 image: assets/images/securecode.png
 order: 2
 ---
