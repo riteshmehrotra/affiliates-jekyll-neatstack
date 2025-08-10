@@ -4,6 +4,9 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Certification Programs
+  url: "certifications/"
+
 - title: About
   url: "about/"
 
